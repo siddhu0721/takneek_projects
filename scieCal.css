@@ -62,6 +62,12 @@ tr{
     border-radius: 5px;
     font-size: 25px;
     color: white;
+    box-shadow: 3px 3px 2px white;
+}
+
+.number:active{
+    width: 75px;
+    height: 75px;
 }
 
 .button{
@@ -70,4 +76,10 @@ tr{
     background-color: rgb(7, 255, 40);
     border-radius: 5px;
     font-size: 25px;
+    box-shadow: 3px 3px 2px white;
+}
+
+.button:active{
+    width: 75px;
+    height: 75px;
 }
