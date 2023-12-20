@@ -1,0 +1,157 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee&family=Hedvig+Letters+Serif:opsz@12..24&family=Mina&family=Roboto+Slab:wght@500&family=Silkscreen&display=swap');
+
+*{
+  font-family: 'Mina', sans-serif;
+  margin: 0;
+  color: black;
+}
+
+.navbar{
+  display:flex;
+  background-color: #85FFBD;
+  background-image: linear-gradient(45deg, #85FFBD 0%, #FFFB7D 100%);
+  width: auto;
+  font-size: 25px;
+  height: 80px;
+  align-self: center;
+  align-items: center;
+  justify-content: space-around;
+  border-bottom: 1px solid black;
+}
+
+.navbar h1{
+  color:rgba(0, 102, 255, 0.968);
+  text-decoration: underline;
+}
+
+
+.navbar a{
+  text-decoration: none;
+  padding: 16px;
+  font-size: 20px;
+}
+
+#new {
+  color: white;
+  background-color: rgba(0, 102, 255, 0.968);
+  border-radius: 8px;
+  padding: 10px;
+}
+
+.navbar a:hover{
+  color:rgba(0, 102, 255, 0.968);
+}
+
+.content{
+  width: 60vw;
+  padding:20px;
+}
+
+
+
+
+.blog-pre{
+  margin: 20px;
+  border-bottom: 1px solid rgba(0, 102, 255, 0.968) ;
+  background-color: #f7ca90;
+background-image: linear-gradient(270deg, #f7ca90 0%, #ffef95 100%);
+  border-radius: 8px;
+}
+
+.blog-pre:hover{
+  box-shadow: 1px 3px 4px black;
+}
+
+.blog-pre h2{
+  margin: 5px;
+  font-size: 25px;
+  color: rgba(0, 102, 255, 0.968);
+}
+
+.blog-pre a{
+  text-decoration: none;
+}
+
+
+
+.blog-det h2{
+  font-size: 30px;
+  color: rgba(0, 102, 255, 0.968);
+  margin: 10px;
+  text-decoration: underline;
+}
+
+.blog-det p{
+  font-size: 15px;
+  margin:10px;
+} 
+
+.blog-det div{
+  font-size: 20px;
+  margin:12px;
+  padding:4px;
+  border-radius: 8px;
+  background-color: #FAACA8;
+  background-image: linear-gradient(225deg, #FAACA8 0%, #DDD6F3 100%);
+}
+
+.blog-det button{
+  background: rgba(0, 102, 255, 0.968);
+  color: white;
+  border: 0;
+  margin: 11px;
+  padding:5px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+
+
+.create{
+  width:90vw;
+  margin:45px;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  background-color: #FAACA8;
+ background-image: linear-gradient(225deg, #FAACA8 0%, #DDD6F3 100%);
+
+}
+
+.create form{
+  width:100%;
+  display: flex;
+  margin-bottom: 10px;
+  flex-direction: column;
+  align-items: center;
+}
+
+.create label{
+  text-align: left;
+  display: block;
+}
+
+.create h2{
+  font-size: 20px ;
+  color:rgba(0, 102, 255, 0.968);
+  margin: 20px;
+}
+
+.create input,.create textarea{
+  width:90%;
+  padding: 6px 10px;
+  margin: 10px 0;
+  border:1px solid wheat;
+  display: block; 
+}
+
+.create button{
+  background: rgba(0, 102, 255, 0.968);
+  color:white;
+  border:0;
+  padding: 8px;
+  border-radius:8px;
+  cursor: pointer;
+}

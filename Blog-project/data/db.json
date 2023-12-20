@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "First Blog",
+      "body": "hello this is my first blog . ",
+      "author": "Siddhu",
+      "id": 1
+    },
+    {
+      "title": "Second Blog",
+      "body": "this is my second blog in my react application.",
+      "author": "Sam",
+      "id": 2
+    },
+    {
+      "title": "Fifth Blog",
+      "body": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptas dolorum obcaecati iure tenetur? Sit fugit repudiandae quisquam quos repellendus! Soluta cumque doloremque consequuntur earum facilis, in fuga necessitatibus aut exercitationem quasi mollitia, assumenda obcaecati reprehenderit saepe! Eos tenetur facere, incidunt nesciunt blanditiis corrupti, quis necessitatibus itaque praesentium ipsa sunt quod. Ducimus fuga voluptatibus provident? Minus cupiditate voluptas aliquid quis. Soluta earum, quasi et placeat officiis optio eius veritatis mollitia in.",
+      "author": "harry",
+      "id": 5
+    },
+    {
+      "title": "sixth blog",
+      "body": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptas dolorum obcaecati iure tenetur? Sit fugit repudiandae quisquam quos repellendus! Soluta cumque doloremque consequuntur earum facilis, in fuga necessitatibus aut exercitationem quasi mollitia, assumenda obcaecati reprehenderit saepe! Eos tenetur facere, incidunt nesciunt blanditiis corrupti, quis necessitatibus itaque praesentium ipsa sunt quod. Ducimus fuga voluptatibus provident? Minus cupiditate voluptas aliquid quis. Soluta earum, quasi et placeat officiis optio eius veritatis mollitia in.",
+      "author": "soham",
+      "id": 6
+    }
+  ]
+}
